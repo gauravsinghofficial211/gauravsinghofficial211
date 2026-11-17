@@ -33,7 +33,6 @@ REST APIs | Microsoft Graph API | SharePoint | ServiceNow | Azure Data Factory
 ### Development & DevOps
 C# | ASP.NET | JavaScript | HTML | CSS | Azure DevOps | CI/CD | Git
 
----
 
 ## 💼 Professional Experience
 
@@ -50,7 +49,6 @@ June 2022 – November 2026
 **Previous Experience**  
 Full-Stack .NET Developer | May 2020 – May 2022
 
----
 
 ## 📊 Featured Projects
 
@@ -61,7 +59,6 @@ Coming Soon!
 - Microsoft Copilot AI Agents
 - Enterprise API Integrations
 
----
 
 ## 🎓 Education
 
@@ -71,7 +68,6 @@ University of Mumbai | 2019
 Bachelor of Science – Information Technology  
 University of Mumbai | 2017
 
----
 
 ## 📜 Certifications
 
@@ -79,14 +75,12 @@ University of Mumbai | 2017
 - Microsoft Azure DevOps – CI/CD
 - ChatGPT & Generative AI for Content Creation
 
----
 
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/gaurav-singh-4019aa20a
 - GitHub: https://github.com/gauravsinghofficial211
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -101,7 +95,6 @@ University of Mumbai | 2017
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 ⭐ Thanks for visiting my profile!
 
