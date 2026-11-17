@@ -3,14 +3,14 @@
 
 ### Power BI Developer | Microsoft Copilot Studio AI Developer | Power Platform & AI Automation Specialist
 
-🚀 IT Professional with 6+ years of experience building enterprise BI solutions, intelligent automation, and AI-powered applications.
+🚀 IT Professional with 6.6 years of experience building enterprise BI solutions, intelligent automation, and AI-powered applications.
 
 📍 Mumbai, India
 
 ## 👨‍💻 About Me
 
-- 6+ years of IT industry experience.
-- 4+ years at Tata Consultancy Services (June 2022 – November 2026).
+- 6.6 years of IT industry experience.
+- 4.6 years at Tata Consultancy Services (June 2022 – November 2026).
 - Delivered 18+ enterprise Power BI dashboards.
 - Worked with 4 global clients.
 - Experienced in Microsoft Power Platform and AI solutions.
