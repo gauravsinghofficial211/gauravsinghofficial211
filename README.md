@@ -37,8 +37,7 @@ C# | ASP.NET | JavaScript | HTML | CSS | Azure DevOps | CI/CD | Git
 ## 💼 Professional Experience
 
 **Tata Consultancy Services (TCS)**  
-Power BI Developer | Microsoft Copilot Studio AI Developer  
-June 2022 – November 2026
+Microsoft Copilot Studio AI Developer | Power BI Developer | Power Automate Developer |  June 2022 – November 2026
 
 - Developed enterprise Power BI dashboards.
 - Built automated business workflows using Power Automate.
@@ -46,9 +45,17 @@ June 2022 – November 2026
 - Integrated enterprise systems using REST APIs.
 - Worked with global business teams and stakeholders.
 
-**Previous Experience**  
-Full-Stack .NET Developer | May 2020 – May 2022
+**Sitel India Pvt Ltd (Foundever)**  
+Full-Stack .NET Developer | Power BI Developer | Power Automate Developer | May 2020 – May 2022
 
+- Developed and maintained dynamic web applications using ASP.NET and C#.
+- Designed and implemented backend business logic using C# and .NET Framework.
+- Developed and managed relational databases using Microsoft SQL Server, including writing SQL queries and managing database operations.
+- Built responsive and user-friendly web interfaces using HTML, CSS, and Bootstrap.
+- Implemented client-side form validations and interactive functionality using JavaScript.
+- Integrated frontend components with backend services and SQL databases.
+- Developed enterprise Power BI dashboards to visualize business data and support decision-making.
+- Created automated business workflows using Microsoft Power Automate.
 
 ## 📊 Featured Projects
 
