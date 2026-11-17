@@ -7,8 +7,6 @@
 
 📍 Mumbai, India
 
----
-
 ## 👨‍💻 About Me
 
 - 6+ years of IT industry experience.
